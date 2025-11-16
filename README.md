@@ -3,7 +3,9 @@
 **Spec-Kit (GitHub Spec Kit)** คือ **Framework สำหรับเขียนสเปก (Specification) แบบเป็นระบบ** เพื่อใช้เป็น “ตัวกลาง” ระหว่าง
 
 👉 *การวางแผนงาน (Planning)*
+
 👉 *ทีม Dev เขียนโค้ดจริง (Implementation)*
+
 👉 *AI Agents เช่น GitHub Copilot / Cursor / ChatGPT*
 
 มันเป็นเครื่องมือที่ทำให้ทีมสามารถ
