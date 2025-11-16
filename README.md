@@ -55,7 +55,7 @@ Spec-Kit → จำกัด Scope และบริบทที่ AI จะ�
 
 Spec-Kit → ให้ Framework ช่วยให้ผลลัพธ์สม่ำเสมอ
 
-[GitHub Spec Kit.](https://github.com/github/spec-kit)
+[Get Started](https://github.com/github/spec-kit?tab=readme-ov-file#-get-started))
 #
 
 # 🧩 ส่วนประกอบหลัก (สำคัญมาก)
