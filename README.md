@@ -148,10 +148,15 @@ spec code      # generate โค้ดตามสเปก
 ผมสามารถช่วยคุณทำได้แบบ Step-by-Step เช่น:
 
 ✔ สร้าง `spec.md`
+
 ✔ สร้าง `plan.md`
+
 ✔ สร้าง `tasks.md`
+
 ✔ แตก task 20–50 งาน
+
 ✔ Generate โค้ด UI + API ให้เลย
+
 ✔ วางโครงสร้าง Solution Next.js + C# WebAPI
 
 #
