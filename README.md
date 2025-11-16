@@ -2,8 +2,6 @@
  
 **Spec-Kit (GitHub Spec Kit)** คือ **Framework สำหรับเขียนสเปก (Specification) แบบเป็นระบบ** เพื่อใช้เป็น “ตัวกลาง” ระหว่าง
 
-[GitHub Spec Kit.](https://github.com/github/spec-kit)
-
 👉 *การวางแผนงาน (Planning)*
 
 👉 *ทีม Dev เขียนโค้ดจริง (Implementation)*
@@ -12,6 +10,8 @@
 
 มันเป็นเครื่องมือที่ทำให้ทีมสามารถ
 **ออกแบบงาน – แตกสเปก – ทำ task – แล้วให้ AI สร้างโค้ดตามแผน** ได้อย่างเป็นมาตรฐาน
+
+[GitHub Spec Kit.](https://github.com/github/spec-kit)
 
 #
 
